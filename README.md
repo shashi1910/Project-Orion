@@ -1,2 +1,8 @@
 # Project-Orion
-The goal of Project Orion is to show how a basic Operating System works.
+
+Project Orion aims to show the basic functionality of an OS with the help of OrionOS.
+
+## Contributors
+* Shashi Pargaonkar
+* Ashish Khetal
+* Akshay Kulkarni
